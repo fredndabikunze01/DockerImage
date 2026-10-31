@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+venv/
+
+# Git metadata and local environment files
+.git/
+.env
+
+# Editor and operating-system files
+.vscode/
+.DS_Store

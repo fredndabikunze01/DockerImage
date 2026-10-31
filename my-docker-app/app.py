@@ -1,0 +1,5 @@
+print("Hello from Docker!")
+print("Welcome to my Docker application.")
+print("Application: my-docker-app")
+print("The application is running inside a Docker container.")
+print("Fred Ndabikunze 26RP00406")
